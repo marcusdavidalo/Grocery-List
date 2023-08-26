@@ -5,6 +5,7 @@ import Content from './Content';
 import Footer from './Footer';
 import AddItem from './AddItem';
 import { useState } from 'react';
+import './index.css';
 
 function App() {
 
